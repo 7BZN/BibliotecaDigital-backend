@@ -20,7 +20,9 @@ cd backend
 Instale as dependências:
 
 ```bash
-npm install
+npm init -y
+
+npm install express cors sqlite3
 ```
 
 ## Execução
